@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/src",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -Dort_utility_EXPORTS -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -I/usr/local/include/onnxruntime -I/usr/local/include/onnxruntime/core/session -O3 -DNDEBUG -std=gnu++17 -fPIC -DENABLE_DEBUG=0 -O3 -o CMakeFiles/ort_utility.dir/ImageClassificationOrtSessionHandler.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ImageClassificationOrtSessionHandler.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ImageClassificationOrtSessionHandler.cpp",
+  "output": "src/CMakeFiles/ort_utility.dir/ImageClassificationOrtSessionHandler.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/src",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -Dort_utility_EXPORTS -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -I/usr/local/include/onnxruntime -I/usr/local/include/onnxruntime/core/session -O3 -DNDEBUG -std=gnu++17 -fPIC -DENABLE_DEBUG=0 -O3 -o CMakeFiles/ort_utility.dir/ImageRecognitionOrtSessionHandlerBase.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ImageRecognitionOrtSessionHandlerBase.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ImageRecognitionOrtSessionHandlerBase.cpp",
+  "output": "src/CMakeFiles/ort_utility.dir/ImageRecognitionOrtSessionHandlerBase.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/src",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -Dort_utility_EXPORTS -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -I/usr/local/include/onnxruntime -I/usr/local/include/onnxruntime/core/session -O3 -DNDEBUG -std=gnu++17 -fPIC -DENABLE_DEBUG=0 -O3 -o CMakeFiles/ort_utility.dir/ObjectDetectionOrtSessionHandler.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ObjectDetectionOrtSessionHandler.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/ObjectDetectionOrtSessionHandler.cpp",
+  "output": "src/CMakeFiles/ort_utility.dir/ObjectDetectionOrtSessionHandler.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/src",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -Dort_utility_EXPORTS -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -I/usr/local/include/onnxruntime -I/usr/local/include/onnxruntime/core/session -O3 -DNDEBUG -std=gnu++17 -fPIC -DENABLE_DEBUG=0 -O3 -o CMakeFiles/ort_utility.dir/OrtSessionHandler.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/OrtSessionHandler.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/src/OrtSessionHandler.cpp",
+  "output": "src/CMakeFiles/ort_utility.dir/OrtSessionHandler.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/TestImageClassification.dir/TestImageClassification.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TestImageClassification.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TestImageClassification.cpp",
+  "output": "examples/CMakeFiles/TestImageClassification.dir/TestImageClassification.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/PrimitiveTest.dir/PrimitiveTest.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/PrimitiveTest.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/PrimitiveTest.cpp",
+  "output": "examples/CMakeFiles/PrimitiveTest.dir/PrimitiveTest.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/tiny_yolo_v2.dir/TinyYolov2.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TinyYolov2.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TinyYolov2.cpp",
+  "output": "examples/CMakeFiles/tiny_yolo_v2.dir/TinyYolov2.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/tiny_yolo_v2.dir/TinyYolov2App.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TinyYolov2App.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/TinyYolov2App.cpp",
+  "output": "examples/CMakeFiles/tiny_yolo_v2.dir/TinyYolov2App.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/mask_rcnn.dir/MaskRCNN.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/MaskRCNN.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/MaskRCNN.cpp",
+  "output": "examples/CMakeFiles/mask_rcnn.dir/MaskRCNN.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/mask_rcnn.dir/MaskRCNNApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/MaskRCNNApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/MaskRCNNApp.cpp",
+  "output": "examples/CMakeFiles/mask_rcnn.dir/MaskRCNNApp.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/yolov3.dir/Yolov3.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/Yolov3.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/Yolov3.cpp",
+  "output": "examples/CMakeFiles/yolov3.dir/Yolov3.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/yolov3.dir/Yolov3App.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/Yolov3App.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/Yolov3App.cpp",
+  "output": "examples/CMakeFiles/yolov3.dir/Yolov3App.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/ultra_light_face_detector.dir/UltraLightFastGenericFaceDetector.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/UltraLightFastGenericFaceDetector.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/UltraLightFastGenericFaceDetector.cpp",
+  "output": "examples/CMakeFiles/ultra_light_face_detector.dir/UltraLightFastGenericFaceDetector.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/ultra_light_face_detector.dir/UltraLightFastGenericFaceDetectorApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/UltraLightFastGenericFaceDetectorApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/UltraLightFastGenericFaceDetectorApp.cpp",
+  "output": "examples/CMakeFiles/ultra_light_face_detector.dir/UltraLightFastGenericFaceDetectorApp.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/yolox.dir/YoloX.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/YoloX.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/YoloX.cpp",
+  "output": "examples/CMakeFiles/yolox.dir/YoloX.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/yolox.dir/YoloXApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/YoloXApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/YoloXApp.cpp",
+  "output": "examples/CMakeFiles/yolox.dir/YoloXApp.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/semantic_segmentation_paddleseg_bisenetv2.dir/SemanticSegmentationPaddleSegBisenetv2.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SemanticSegmentationPaddleSegBisenetv2.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SemanticSegmentationPaddleSegBisenetv2.cpp",
+  "output": "examples/CMakeFiles/semantic_segmentation_paddleseg_bisenetv2.dir/SemanticSegmentationPaddleSegBisenetv2.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/semantic_segmentation_paddleseg_bisenetv2.dir/SemanticSegmentationPaddleSegBisenetv2App.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SemanticSegmentationPaddleSegBisenetv2App.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SemanticSegmentationPaddleSegBisenetv2App.cpp",
+  "output": "examples/CMakeFiles/semantic_segmentation_paddleseg_bisenetv2.dir/SemanticSegmentationPaddleSegBisenetv2App.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/super_point.dir/SuperPoint.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPoint.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPoint.cpp",
+  "output": "examples/CMakeFiles/super_point.dir/SuperPoint.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/super_point.dir/SuperPointApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPointApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPointApp.cpp",
+  "output": "examples/CMakeFiles/super_point.dir/SuperPointApp.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/super_glue.dir/SuperPoint.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPoint.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperPoint.cpp",
+  "output": "examples/CMakeFiles/super_glue.dir/SuperPoint.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/super_glue.dir/SuperGlueApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperGlueApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/SuperGlueApp.cpp",
+  "output": "examples/CMakeFiles/super_glue.dir/SuperGlueApp.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/loftr.dir/LoFTR.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/LoFTR.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/LoFTR.cpp",
+  "output": "examples/CMakeFiles/loftr.dir/LoFTR.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/build/examples",
+  "command": "/usr/bin/c++ -DENABLE_GPU=0 -DENABLE_TENSORRT=0 -I/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/include -isystem /usr/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -DENABLE_DEBUG=0 -o CMakeFiles/loftr.dir/LoFTRApp.cpp.o -c /mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/LoFTRApp.cpp",
+  "file": "/mnt/c/Users/Kay/Desktop/working/onnx_runtime_cpp/examples/LoFTRApp.cpp",
+  "output": "examples/CMakeFiles/loftr.dir/LoFTRApp.cpp.o"
+}
+]

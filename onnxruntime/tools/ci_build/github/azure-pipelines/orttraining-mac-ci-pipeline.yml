@@ -1,0 +1,6 @@
+jobs:
+- template: templates/mac-ci.yml
+  parameters:
+    AllowReleasedOpsetOnly: 0
+    BuildForAllArchs: false
+    AdditionalBuildFlags: --enable_training
